@@ -54,7 +54,7 @@ The aim of this repository is to build a clear and intuitive understanding of cl
 
 Clone the repository
 
-    git clone https://github.com/your-username/machine-learning-models.git
+    git clone https://github.com/1morshed1/machine-learning-models.git
     cd machine-learning-models
 
 Launch Jupyter Notebook
