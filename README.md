@@ -12,6 +12,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Polynomial Regression
 
+    ✅ Support Vector Regression (SVR)
+
     🔜 Ridge Regression
 
     🔜 Lasso Regression
