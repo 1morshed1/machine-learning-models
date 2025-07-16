@@ -1,4 +1,5 @@
 # machine-learning-models
+
 A growing collection of machine learning models implemented in Jupyter Notebooks — starting from simple linear regression to more advanced techniques. Ideal for learning, experimentation, and quick reference.
 
 📘 Contents
@@ -13,6 +14,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
     ✅ Polynomial Regression
 
     ✅ Support Vector Regression (SVR)
+
+    ✅ Decision Tree Regression
 
     🔜 Ridge Regression
 
@@ -33,9 +36,6 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
     🔜 K-Means Clustering
 
     🔜 DBSCAN
-
-
-
 
 🛠️ Tools & Libraries
 
