@@ -17,6 +17,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Decision Tree Regression
 
+    ✅ Random Forest Regression
+
     🔜 Ridge Regression
 
     🔜 Lasso Regression
