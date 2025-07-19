@@ -5,6 +5,7 @@ A growing collection of machine learning models implemented in Jupyter Notebooks
 📘 Contents
 
 Each notebook is self-contained with explanations, code, and visualizations. Here’s what’s included or planned:
+
 🔹 Regression Models
 
     ✅ Simple Linear Regression
@@ -19,13 +20,9 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Random Forest Regression
 
-    🔜 Ridge Regression
+🔹 Classification Models
 
-    🔜 Lasso Regression
-
-    🔜 Logistic Regression
-
-🔹 Classification Models (coming soon)
+    ✅ Logistic Regression
 
     🔜 k-Nearest Neighbors (k-NN)
 
