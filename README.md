@@ -24,7 +24,7 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Logistic Regression
 
-    🔜 k-Nearest Neighbors (k-NN)
+    ✅ k-Nearest Neighbors (k-NN)
 
     🔜 Support Vector Machine (SVM)
 
