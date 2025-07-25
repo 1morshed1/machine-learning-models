@@ -26,7 +26,7 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ k-Nearest Neighbors (k-NN)
 
-    🔜 Support Vector Machine (SVM)
+    ✅ Support Vector Machine (SVM)
 
     🔜 Decision Tree Classifier
 
