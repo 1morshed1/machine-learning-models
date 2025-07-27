@@ -28,6 +28,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Support Vector Machine (SVM)
 
+    ✅ Kernel SVM
+
     🔜 Decision Tree Classifier
 
 🔹 Clustering Models (coming soon)
