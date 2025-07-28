@@ -30,6 +30,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Kernel SVM
 
+    ✅ Naive Bayes
+
     🔜 Decision Tree Classifier
 
 🔹 Clustering Models (coming soon)
