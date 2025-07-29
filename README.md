@@ -32,7 +32,7 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Naive Bayes
 
-    🔜 Decision Tree Classifier
+    ✅ Decision Tree Classifier
 
 🔹 Clustering Models (coming soon)
 
