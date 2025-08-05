@@ -34,6 +34,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Decision Tree Classifier
 
+    ✅ Random Forest Classifier
+
 🔹 Clustering Models (coming soon)
 
     🔜 K-Means Clustering
