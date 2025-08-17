@@ -40,7 +40,7 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ K-Means Clustering
 
-    🔜 DBSCAN
+    ✅ Hierarchical Clustering
 
 🛠️ Tools & Libraries
 
