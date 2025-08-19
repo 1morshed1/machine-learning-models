@@ -46,6 +46,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Apriori
 
+    ✅ Eclat
+
 🛠️ Tools & Libraries
 
     Python 3.x
