@@ -42,6 +42,10 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Hierarchical Clustering
 
+🔹 Association Rule Learning
+
+    ✅ Apriori
+
 🛠️ Tools & Libraries
 
     Python 3.x
