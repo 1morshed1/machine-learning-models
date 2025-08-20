@@ -48,6 +48,10 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Eclat
 
+🔹 Reinforcement Learning
+
+    ✅ Upper Confidence Bound (UCB)
+
 🛠️ Tools & Libraries
 
     Python 3.x
