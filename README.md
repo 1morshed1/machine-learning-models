@@ -52,6 +52,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Upper Confidence Bound (UCB)
 
+    ✅ Thompson Sampling
+
 🛠️ Tools & Libraries
 
     Python 3.x
