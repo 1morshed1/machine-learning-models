@@ -54,6 +54,10 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Thompson Sampling
 
+🔹 Natural Language Processing
+
+    ✅ Natural Language Processing
+
 🛠️ Tools & Libraries
 
     Python 3.x
