@@ -58,6 +58,10 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Natural Language Processing
 
+🔹 Deep Learning
+
+    ✅ Artificial Neural Network
+
 🛠️ Tools & Libraries
 
     Python 3.x
