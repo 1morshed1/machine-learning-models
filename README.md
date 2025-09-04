@@ -62,6 +62,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Artificial Neural Network
 
+    ✅ Convolution Neural Network
+
 🛠️ Tools & Libraries
 
     Python 3.x
