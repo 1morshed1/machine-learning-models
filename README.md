@@ -72,6 +72,12 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Kernel PCA
 
+🔹 Model Selection & Boosting
+
+    ✅ k-Fold Cross Validation
+
+    ✅
+
 🛠️ Tools & Libraries
 
     Python 3.x
