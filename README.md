@@ -90,7 +90,7 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     NumPy, Pandas
 
-    Matplotlib, Seaborn
+    Matplotlib
 
     Scikit-learn (for reference and comparisons)
 
