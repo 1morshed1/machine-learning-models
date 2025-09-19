@@ -68,6 +68,8 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Principal Component Analysis
 
+    ✅ Linear Discriminant Analysis
+
 🛠️ Tools & Libraries
 
     Python 3.x
