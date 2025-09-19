@@ -76,7 +76,7 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ k-Fold Cross Validation
 
-    ✅
+    ✅ Grid Search
 
 🛠️ Tools & Libraries
 
