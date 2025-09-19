@@ -64,6 +64,10 @@ Each notebook is self-contained with explanations, code, and visualizations. Her
 
     ✅ Convolution Neural Network
 
+🔹 Dimensionality Reduction
+
+    ✅ Principal Component Analysis
+
 🛠️ Tools & Libraries
 
     Python 3.x
